@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num_source",
+				"num_source_cells"
+			],
+			[
+				"init",
+				"init_index"
+			],
+			[
+				"num_sour",
+				"num_source_cells"
+			],
+			[
+				"connec",
+				"connectivity_parameters"
+			],
+			[
+				"saccad",
+				"saccade_type"
+			],
+			[
+				"error",
+				"error_value"
+			],
+			[
+				"publishe",
+				"published_error"
+			],
+			[
+				"output",
+				"output_topic_error"
+			],
+			[
+				"out",
+				"outputfile"
+			],
+			[
+				"num",
+				"num_of_post_neurons"
+			],
+			[
+				"weigh",
+				"weight_matrix2"
+			],
+			[
+				"weig",
+				"weight_matrix2"
+			],
+			[
+				"wei",
+				"weight_matrix"
+			],
+			[
+				"file",
+				"file_extension"
+			],
+			[
+				"simul",
+				"simulation_time"
+			],
+			[
+				"return",
+				"return_code"
+			],
+			[
+				"E",
+				"endweightfile"
+			],
+			[
+				"num_",
+				"num_of_post_neurons"
+			],
+			[
+				"teac",
+				"teaching_sp_times"
+			],
+			[
+				"neuron",
+				"neuron_id"
+			],
+			[
+				"pre",
+				"pre_neurons"
+			],
+			[
+				"post",
+				"post_neurons"
+			],
+			[
+				"tea",
+				"teaching_neurons"
+			],
+			[
+				"num_of",
+				"num_of_teaching_neurons"
+			],
+			[
+				"firin",
+				"firing_frequency_pos"
+			],
+			[
+				"max",
+				"max_firing_frequency"
+			],
+			[
+				"SC_E",
+				"SC_EBN1_delay"
+			],
+			[
+				"SC_",
+				"SC_EBN1_source"
+			],
+			[
+				"neuron_",
+				"neuron_inv_cm"
+			],
+			[
+				"sampl",
+				"sampling_period"
+			],
+			[
+				"inte",
+				"integration_step"
+			],
+			[
+				"nu",
+				"neuron_id"
+			],
+			[
+				"Get",
+				"GetSaccadeErrorInit"
+			],
+			[
+				"firing",
+				"firing_frequency_neg"
+			],
+			[
+				"an",
+				"an_count"
+			],
+			[
+				"EBN",
+				"EBN_AN_source"
+			],
+			[
+				"EBN2_AN",
+				"EBN2_AN_an_source"
+			],
+			[
+				"EBN2",
+				"EBN2_AN_ag_source"
+			],
+			[
+				"EBN1",
+				"EBN1_AN_source"
+			],
+			[
+				"EBN2_AN_an",
+				"EBN2_AN_an_target"
+			],
+			[
+				"VN_EBN_an",
+				"VN_EBN_an_source"
+			],
+			[
+				"VN_EBN",
+				"VN_EBN_ag_source"
+			],
+			[
+				"EBN_",
+				"EBN_AN"
+			],
+			[
+				"SC_EBN",
+				"SC_EBN1_source"
+			],
+			[
+				"SC_EBN1_",
+				"SC_EBN1_weights"
+			],
+			[
+				"VN_EB",
+				"VN_EBN2_source"
+			],
+			[
+				"EBN1_VN",
+				"EBN1_VN_source"
+			],
+			[
+				"GRC_PC",
+				"GRC_PC_source"
+			],
+			[
+				"num_of_",
+				"num_of_EBN_neurons"
+			],
+			[
+				"tau",
+				"tau_cos_"
+			],
+			[
+				"histor",
+				"history_cos_"
+			],
+			[
+				"weight",
+				"weight_"
+			],
+			[
+				"last",
+				"last_spike_weight_change_"
+			],
+			[
+				"new",
+				"new_cossin_"
+			],
+			[
+				"new_",
+				"new_cos2_"
+			],
+			[
+				"cos2",
+				"cos2_"
+			],
+			[
+				"dendri",
+				"dendritic_delay"
+			],
+			[
+				"TE",
+				"TEACHING_SIGNAL"
+			],
+			[
+				"inv",
+				"inv_tau_cos_"
+			],
+			[
+				"cur",
+				"currents_"
+			],
+			[
+				"t_last",
+				"t_last_update_"
+			],
+			[
+				"t_las",
+				"t_last_update_"
+			],
+			[
+				"archi",
+				"archiving_node_cs"
+			],
+			[
+				"G",
+				"G_EXC"
+			],
+			[
+				"gc_pc",
+				"gc_pc_connections"
+			],
+			[
+				"gc_",
+				"gc_pc_weights"
+			],
+			[
+				"PC",
+				"PC_population"
+			],
+			[
+				"spikes",
+				"spikes"
+			],
+			[
+				"spike",
+				"spike_times"
+			],
+			[
+				"GC",
+				"GC_population"
+			],
+			[
+				"DCN",
+				"DCN_population"
+			],
+			[
+				"init_",
+				"init_error_time"
+			],
+			[
+				"curren",
+				"current_time"
+			],
+			[
+				"conne",
+				"connectivity_ratio"
+			],
+			[
+				"sa",
+				"saccade_current"
+			],
+			[
+				"input",
+				"input_signal_value"
+			],
+			[
+				"min_",
+				"min_neuron_index"
+			],
+			[
+				"Firing",
+				"Firing_Frequency"
+			],
+			[
+				"Sensor",
+				"SensorValue"
+			],
+			[
+				"control",
+				"control_value"
+			],
+			[
+				"ex",
+				"ext_clock"
+			],
+			[
+				"next",
+				"next_time"
+			],
+			[
+				"integ",
+				"integratorObj"
+			],
+			[
+				"simulation",
+				"simulation_step"
+			],
+			[
+				"weight_noise",
+				"weight_noise_std_ratio"
+			],
+			[
+				"selected",
+				"selected_columns"
+			],
+			[
+				"weight_nois",
+				"weight_noise_std_ratio"
+			],
+			[
+				"sc",
+				"sc_histogram"
+			],
+			[
+				"refre",
+				"refresh_rate"
+			],
+			[
+				"ref",
+				"refresh_rate"
+			],
+			[
+				"spik",
+				"spike_count"
+			],
+			[
+				"current",
+				"current_time"
+			],
+			[
+				"e",
+				"end_sleep_time"
+			],
+			[
+				"sleep",
+				"sleep_time"
+			],
+			[
+				"contr",
+				"control_publisher"
+			],
+			[
+				"number",
+				"number_of_queues"
+			],
+			[
+				"time",
+				"time_list"
+			],
+			[
+				"stdp",
+				"stdp_parameters"
+			],
+			[
+				"connect",
+				"connections"
+			],
+			[
+				"min",
+				"min_time"
+			],
+			[
+				"inter",
+				"inter_image_time"
+			],
+			[
+				"netwo",
+				"network_record"
+			],
+			[
+				"synaptic",
+				"synaptic_layer"
+			],
+			[
+				"we",
+				"weightfile"
+			],
+			[
+				"network",
+				"networkfile"
+			],
+			[
+				"num_mf",
+				"num_mfdcn_connections"
+			],
+			[
+				"num_of_input",
+				"num_of_input_pc_per_dcn"
+			],
+			[
+				"mfgrc",
+				"mfgrc_connections"
+			],
+			[
+				"num_pc",
+				"num_pcdcn_connections"
+			],
+			[
+				"num_of_in",
+				"num_of_input_mf_per_dcn"
+			],
+			[
+				"num_of_target",
+				"num_of_target_pc_per_io"
+			],
+			[
+				"num_gr",
+				"num_grcpc_connections"
+			],
+			[
+				"num_grc",
+				"num_grc_neurons"
+			],
+			[
+				"mfn",
+				"mfneurons"
+			],
+			[
+				"mfneuron",
+				"mfneurons_per_joint"
+			],
+			[
+				"outpu",
+				"output_analog_delay"
+			],
+			[
+				"edlu",
+				"edlut_analog_delay"
+			],
+			[
+				"output_",
+				"output_analog"
+			],
+			[
+				"edlut",
+				"edlut_ros"
+			],
+			[
+				"rbf",
+				"rbf_input"
+			],
+			[
+				"Neuron",
+				"NeuronTime"
+			],
+			[
+				"run",
+				"run_depend"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 9144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/project/cerebsensing.md",
+			"settings":
+			{
+				"buffer_size": 5477,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"quit()",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/project",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/static"
+	],
+	"file_history":
+	[
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/tolu2013.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/dangelo2016b.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/garrido2011.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/garrido2011b.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/garrido2013a.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/garrido2013b.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/garrido2016.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2010.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2011a.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2011b.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2011c.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2011d.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2012.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2014a.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2014b.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/luque2016.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/mapelli2015.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/naveros2015.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/naveros2017.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/pinoteau2012.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/richter2016.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/tolu2012.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/dangelo2009.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/dangelo2013.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/dangelo2016a.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/bologna2013.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/antonietti2015.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/antonietti2016.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/bologna2012.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/casellato2012.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/casellato2014a.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/casellato2014b.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/casellato2015.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/granularLayer.sublime-project",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/src/CInterface.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/about.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/config.toml",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/post/test_entry.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/.gitmodules",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/project/cerebsensing.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/project/cerebrot.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/project/hbp.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/project/realnet.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/people/nluque.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/people/eros.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/people/jgarrido.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/contact.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/posts.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/projects.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/people.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/publications.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/publications_selected.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/tags.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/talks.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/home/teaching.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/talk/brain-body-2018.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/people/_index.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/neurorobotics-website/content/people/about.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/about.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/src/SpikingSimulation/SpikingCerebellum/SynapticLayerNoMPI.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/src/SpikingSimulation/SpikingCerebellum/CerebellarModel.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/src/SpikingSimulation/SpikingCerebellum/NestCerebellarModelNoMPI.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/src/SpikingSimulation/FrequencySimulation.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingGranularLayer/config/TestStructure/InitialTest.cfg",
+		"/home/jesusgarrido/Documents/SVNRepository/Human Brain Project/Fable_Experiment/fable_experiment_nrp/fable_manipulation/planner.py",
+		"/home/jesusgarrido/Documents/SVNRepository/Human Brain Project/Fable_Experiment/fable_experiment_nrp/fable_manipulation/controller.py",
+		"/home/jesusgarrido/Documents/NRP/user-scripts/output.log",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/config.toml",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/talks.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/publications.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/talk/_index.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/posts.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/teaching.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/publications_selected.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/talk/hbp-perf-show.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/contact.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/projects.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/tags.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/Recognition_DVS_MNIST/src/utils.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/Recognition_DVS_MNIST/src/parameters.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/Recognition_DVS_MNIST/src/VisualizeEvents.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/Recognition_DVS_MNIST/src/training.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/Recognition_DVS_MNIST/src/test.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/launch/test_edlut_simulation.launch",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/error_generator_node.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/saccade_generator_node.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/NetworkGenerator.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/nest-simulator/nest/CMakeLists.txt",
+		"/home/jesusgarrido/Documents/GitHubRepository/nest-simulator/pynest/CMakeLists.txt",
+		"/home/jesusgarrido/Documents/NRP/Experiments/iCub_VOR_UGR_ORIGINAL/ExDiCub_VOR_UGR.3ds",
+		"/home/jesusgarrido/Documents/NRP/Experiments/iCub_VOR_UGR_ORIGINAL/iCub_VOR_UGR_ORIGINAL.bibi",
+		"/home/jesusgarrido/Documents/NRP/Experiments/iCub_VOR_UGR/iCub_VOR_UGR.bibi",
+		"/home/jesusgarrido/Documents/NRP/Experiments/iCub_VOR_UGR/ExDiCub_VOR_UGR.exc",
+		"/home/jesusgarrido/Documents/NRP/Experiments/visual_tracking_icub/ExDVisualTrackingICub.exc",
+		"/home/jesusgarrido/Documents/NRP/Experiments/visual_tracking_icub/ExDVisualTrackingICub.3ds",
+		"/home/jesusgarrido/Documents/NRP/Experiments/iCub_VOR_UGR/ExDiCub_VOR_UGR.3ds",
+		"/home/jesusgarrido/Documents/NRP/Models/icub_model/model.sdf",
+		"/home/jesusgarrido/Documents/NRP/Models/virtual_room_lausanne/virtual_room_tracking_icub.sdf",
+		"/home/jesusgarrido/.ros/plot_neuron_state.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/activity_histogram_node.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/test_STDP_EDLUT.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/StaticRasterPlot.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/NetTestSTDP.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/EndWeightTestSTDP2.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/Output.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/Input.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/WeightTestSTDP.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/data/NetCerebellum.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/data/WeightCerebellum.cfg",
+		"/home/jesusgarrido/.ros/log_state_vars.dat",
+		"/home/jesusgarrido/.ros/data/_LIFTimeDriven_PC_RK4.cfg",
+		"/home/jesusgarrido/.ros/data/_LIFTimeDriven_GrC_RK4.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/data/_LIFTimeDriven_GrC_RK4.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/data/_LIFTimeDriven_PC_RK4.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/nest-simulator/nestkernel/rng_manager.h",
+		"/home/jesusgarrido/Documents/GitHubRepository/nest-simulator/nestkernel/rng_manager.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/simulator_node.cpp",
+		"/home/jesusgarrido/.ros/data/_LIFTimeDriven_Brette_RK4.cfg",
+		"/home/jesusgarrido/.ros/data/_LIFTimeDriven_FN_RK4.cfg",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingCerebellum/src/nest2_12_new/CerebellumModule/cd_poisson_generator.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingCerebellum/src/nest2_12_new/CerebellumModule/cd_poisson_generator.h",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingCerebellum/src/nest2_10_new/CerebellumModule/cd_poisson_generator.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/RasterPlot.py",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/include/edlut_ros/ROSRBFBank.h",
+		"/home/jesusgarrido/Documents/GitHubRepository/SpikingCerebellum/README.md",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/ROSRBFBank.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/rbf_node.cpp",
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/data/_LIFTimeDriven_Brette_RK4.cfg"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"save_networ",
+			"weight_record",
+			"std_number_of_source_cells",
+			"_generate_random_n2one_std_local_connections_",
+			"06",
+			"xml",
+			"undefined reference",
+			"scipy",
+			"undefined reference",
+			"ImportError",
+			"scipy",
+			"ImportError",
+			"sky",
+			"blur",
+			"pc_fn",
+			"2799",
+			"pc-fn",
+			"2799",
+			"500",
+			"2800",
+			"500",
+			"FN",
+			"2800",
+			"2800\n",
+			"ebn",
+			"EBN",
+			"IO",
+			"VN",
+			"control",
+			"Saccade generator",
+			"Saccade generatlor",
+			"control",
+			"eye_position",
+			"control",
+			"print",
+			"num_of_GrC",
+			"tau_cos",
+			"AMPA",
+			"  \n",
+			"nest::double_t",
+			"GABA",
+			"iaf_cond_exp_cs",
+			"iiaf_cond_exp_cos",
+			"iaf_cond_exp_cs",
+			"  }",
+			"update_synaptic",
+			"calibrate",
+			"100",
+			"CommonSynapse",
+			"std::cout << \"Applying LTP. New weight: \" << this->weight << std::endl;",
+			"kernel",
+			"thread",
+			"get_connections",
+			"get_connect",
+			"universal",
+			"lockptrdatum",
+			"double",
+			"stdp_sin_synapse_lbl",
+			"simulator",
+			"DCN_PARAMS",
+			"error_value_neg",
+			"Synchronized",
+			"simulator",
+			"EDLUT",
+			"sc_output",
+			"refresh_rate",
+			"current_value",
+			"t_stop",
+			"neuron",
+			"network_record",
+			"initialize_wei",
+			"_initialize_weight",
+			"_initialize_weit",
+			"update_network_weights",
+			"update_neuron_states",
+			"vt",
+			"send",
+			"trigger_update_weight",
+			"Mymodule",
+			"INFO: Average firing rate in MI analysis",
+			"Mutual information",
+			"P7767",
+			"INFO: Running the simulation",
+			"INFO: Running simulation",
+			"INFO: Running the simulation",
+			"Initializing cerebellum",
+			"bool",
+			"spike",
+			"float",
+			"catkin_package",
+			"already",
+			"already selected",
+			"self.SetSizer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FN",
+			"double",
+			"iaf_cond_exp_cos",
+			"double",
+			"self.panel",
+			"self.panel.SetSizer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2138,
+								2138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 526.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/project/cerebsensing.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personalwebsite.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/GitHubRepository/neurorobotics-website/neurosite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 386.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

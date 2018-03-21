@@ -11,7 +11,7 @@ tags = ["cerebellum", "learning", "distributed plasticity", "neurorobotics"]
 summary = "CEREBSENSING aims to understand how the cerebellum processes sensorial information coming from the cerebral cortex by using computational models embedded in realistic perception-action simulations."
 
 # Optional image to display on homepage.
-image_preview = "marie_curie.jpg"
+image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
