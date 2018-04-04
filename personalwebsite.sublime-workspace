@@ -499,7 +499,7 @@
 			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 9144,
+				"buffer_size": 9150,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -555,11 +555,13 @@
 	[
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart",
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content",
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home",
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/project",
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/static"
 	],
 	"file_history":
 	[
+		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/home/people.md",
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/tolu2013.md",
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/dangelo2016b.md",
 		"/home/jesusgarrido/Documents/GitHubRepository/academic-kickstart/content/publication/garrido2011.md",
@@ -686,12 +688,11 @@
 		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/include/edlut_ros/ROSRBFBank.h",
 		"/home/jesusgarrido/Documents/GitHubRepository/SpikingCerebellum/README.md",
 		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/ROSRBFBank.cpp",
-		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/rbf_node.cpp",
-		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/data/_LIFTimeDriven_Brette_RK4.cfg"
+		"/home/jesusgarrido/Documents/GitHubRepository/ForwardModel/src/edlut_ros/src/rbf_node.cpp"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -821,7 +822,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -830,15 +831,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9144,
+						"buffer_size": 9150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2138,
-								2138
+								1694,
+								1694
 							]
 						],
 						"settings":
@@ -848,10 +849,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 526.0,
+						"translation.y": 336.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -867,8 +868,8 @@
 						"selection":
 						[
 							[
-								254,
-								254
+								968,
+								968
 							]
 						],
 						"settings":
@@ -876,10 +877,10 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 210.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
