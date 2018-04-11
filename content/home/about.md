@@ -36,7 +36,7 @@ weight = 5
 
 # Biography
 
-I am a senior postdoctoral researcher at the Computational Neuroscience and Neurorobotics Lab of the University of Granada. My research interests include the creation of computational models to gain knowledge on how the brain obtains such an astonishing performance in so many different tasks and, in particular, motor control. Once we understand the biological bases we apply these computational models to control robots, mimicking the way the brain controls our bodies. 
+I am a senior postdoctoral researcher at the [Applied Computational Neuroscience Research Group] (http://acn.ugr.es) of the University of Granada. My research interests include the creation of computational models to gain knowledge on how the brain obtains such an astonishing performance in so many different tasks and, in particular, motor control. Once we understand the biological bases we apply these computational models to control robots, mimicking the way the brain controls our bodies. 
 
 I have specialized in cerebellum modelling, as this small brain centre is tighly related to the coordination and movement. I feel mainly attracted by the plasticity mechanisms that support the formation of motor memories and sensorial representations.
 
