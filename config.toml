@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jesus Garrido"
-  role = "Senior Researcher in Computational Neuroscience"
+  role = "Associate Professor and Senior Researcher in Computational Neuroscience"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -60,9 +60,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "email.png"
-  address = "CITIC-UGR. Room D1.3. Calle Periodista Rafael Gómez Montero 2, 18071, Granada (Spain)"
+  address = "Edificio Auxiliar ETSIIT. Room ATC. Calle Periodista Juan Osorio Bueno s/n, 18071, Granada (Spain)"
   office_hours = ""
-  phone = "+34958241776"
+  phone = "+34958241000 ext. 20633"
   skype = "jgarridoalcazar"
   telegram = ""
 
@@ -94,8 +94,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyCr__jxpXpeiufQTWc_q3XgLWWipvUwfpQ"
-  latitude = "37.1977852"
-  longitude = "-3.6240453"
+  latitude = "37.1979712"
+  longitude = "-3.6298373"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
