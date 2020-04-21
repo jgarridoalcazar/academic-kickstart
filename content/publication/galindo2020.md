@@ -44,7 +44,7 @@ tags = ["Visualization", "Pattern recognition", "Spiking Neural Networks"]
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/2003.06343"
-url_code = ""
+url_code = "https://github.com/jgarridoalcazar/InhPlastVisualization"
 url_dataset = ""
 url_project = ""
 url_slides = ""
